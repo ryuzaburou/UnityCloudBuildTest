@@ -583,11 +583,12 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 0
     UNet: 1
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
-  cloudProjectId: 97d032b4-6924-4b67-a4db-bb8eeeb6d930
-  projectName: UnityCloudBuildTest (1)
+  cloudProjectId: 0f703fcb-6807-4f33-a509-47c700018a76
+  projectName: Test
   organizationId: dynamopicturesinc
   cloudEnabled: 0
   enableNewInputSystem: 0
